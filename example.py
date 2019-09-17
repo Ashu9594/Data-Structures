@@ -17,6 +17,9 @@ class Stack():
         except:
             print("First Add Data")
 
+
+
+
 stack = Stack()
 choice = 0
 while(1):
